@@ -1,4 +1,4 @@
-hand_digits_recognition
+Hand written digit recognition
 =======================
 
-This is a basic project aimed at recognizing hand-written digits using Matlab.
+This is a basic project aimed at recognizing hand-written digits using Matlab. MNIST dataset is used.
